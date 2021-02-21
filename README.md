@@ -12,7 +12,7 @@ Install [node](https://nodejs.org/en/) for your OS. (built on node v11.6)
 #### Clone this repository with git.
 
 ```
-git clone https://github.com/vsams14/pronounbot.git
+git clone https://github.com/athros/pronounbot.git
 ```
 
 #### Setting up discord bot and auth token
