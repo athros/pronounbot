@@ -59,7 +59,7 @@ npm start
 ```
 Then testing the bot in discord by typing 
 ```
-/pronoun help set
+/pb help
 ```
 into a channel that the bot can see. The expected output is:
 ```
