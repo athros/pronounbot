@@ -18,7 +18,7 @@ exports.run = (client, message, args, prefix, rolefix) => {
 			}
 			return true;
 		});
-		if(message.author.id == message.guild.owner.id){
+		if(message.author.id == message.guild.ownerId){
 			client.config.commands.every((k) => {
 				if(k.admin){
 					msgString += "\t" + k.name + "\n";
